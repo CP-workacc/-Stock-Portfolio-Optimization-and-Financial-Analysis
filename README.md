@@ -21,7 +21,7 @@ This project involves designing a portfolio optimization and financial data anal
 ## How to Use
 1. Clone the Repository:
    - Download or clone the repository to your local machine using Git:
-     git clone https://github.com/CP-workacc/-Stock-Portfolio-Optimization-and-Financial-Analysis
+     git clone https://github.com/CP-workacc/-Stock-Portfolio-Optimization-and-Financial-Analysis/tree/master
    
 2. Run SQL Script:
    - Open your SQL client (e.g., pgAdmin, SQL Server Management Studio, or MySQL Workbench).
